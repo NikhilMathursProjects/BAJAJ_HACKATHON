@@ -1,0 +1,6 @@
+pymupdf
+ctransformers
+llama-index
+llama-cpp-python
+sentence-transformers
+transformers
